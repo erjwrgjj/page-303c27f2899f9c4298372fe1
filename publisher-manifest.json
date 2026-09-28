@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a03f92db4b7ef170bf6b245f",
+  "owner": "erjwrgjj",
+  "repo": "page-303c27f2899f9c4298372fe1",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "303c27f2899f9c4298372fe1",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "95bc5fdbf63374935d02d14e091abfcf61d656000330488a47806223804a3a50",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN提供安全稳定的网络加速服务，帮助用户畅享无障碍高速上网体验。支持多设备在线，下载客户端立即使用。",
+          "AI_DESCRIPTION": "魔戒VPN提供安全稳定的网络加速服务，帮助用户畅享无障碍高速上网体验。支持多设备在线，下载客户端立即使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --blue: #0a2540;\n            --cyan: #00b4d8;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: 'Helvetica Neue', Arial, sans-serif;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n            background: var(--blue);\n            color: #fff;\n            overflow-x: hidden;\n        }\n        header {\n            background: rgba(10, 37, 64, 0.95);\n            padding: 1rem;\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--cyan);\n        }\n        .hero {\n            background: linear-gradient(135deg, var(--blue), #001f3f);\n            padding: 4rem 1rem;\n            text-align: center;\n            color: #fff;\n        }\n        .hero h1 {\n            font-size: 3rem;\n            margin-bottom: 1rem;\n        }\n        .hero .tagline {\n            font-size: 1.5rem;\n            color: var(--cyan);\n            margin-bottom: 2rem;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 1rem;\n        }\n        section {\n            padding: 3rem 0;\n        }\n        h2 {\n            font-size: 2rem;\n            color: var(--cyan);\n            margin-bottom: 1.5rem;\n            border-bottom: 2px solid var(--cyan);\n            padding-bottom: 0.5rem;\n        }\n        .intro, .scenarios, .guides {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 2rem;\n            align-items: start;\n        }\n        .card {\n            background: rgba(255,255,255,0.05);\n            border-radius: 8px;\n            padding: 1.5rem;\n            margin-bottom: 1rem;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            background: #fff;\n            color: var(--blue);\n            border-radius: 8px;\n            padding: 1.5rem;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n        }\n        .plan-card.featured {\n            border: 3px solid var(--cyan);\n            transform: scale(1.05);\n        }\n        .faq {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        details {\n            background: rgba(255,255,255,0.05);\n            border-radius: 8px;\n            margin-bottom: 1rem;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker { display: none; }\n        @media (max-width: 768px) {\n            .intro, .scenarios, .guides {\n                grid-template-columns: 1fr;\n            }\n            .hero h1 {\n                font-size: 2.5rem;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">魔戒</div>\n            <div>\n                <a href=\"#intro\">关于</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <div class=\"container\">\n                <h1>魔戒</h1>\n                <p class=\"tagline\">高速网络，自由无限</p>\n                <p>安全稳定的VPN加速服务，解锁全球内容，畅享无界网络。</p>\n            </div>\n        </section>\n        <div class=\"container\">\n            <section id=\"intro\">\n                <h2>品牌简介</h2>\n                <p>魔戒VPN是一款专注于提供安全、高速网络加速的服务。帮助用户突破网络限制，保护隐私，享受流畅的互联网体验。</p>\n            </section>\n            <section id=\"scenarios\">\n                <h2>使用场景</h2>\n                <div class=\"intro\">\n                    <div class=\"card\">\n                        <h3>远程办公</h3>\n                        <p>在家或出差也能保持高效办公，稳定连接全球资源。</p>\n                    </div>\n                    <div class=\"card\">\n                        <h3>跨境旅行</h3>\n                        <p>无需翻墙烦恼，安全访问海外社交媒体和新闻。</p>\n                    </div>\n                    <div class=\"card\">\n                        <h3>游戏加速</h3>\n                        <p>支持多人在线游戏，优化线路获得低延迟体验。</p>\n                    </div>\n                    <div class=\"card\">\n                        <h3>视频解锁</h3>\n                        <p>轻松观看国际平台内容。</p>\n                    </div>\n                </div>\n            </section>\n            <section id=\"guides\">\n                <h2>操作指南</h2>\n                <div class=\"guides\">\n                    <div class=\"card\">\n                        <h3>下载客户端</h3>\n                        <p>访问官网获取适用于主流操作系统的客户端。</p>\n                    </div>\n                    <div class=\"card\">\n                        <h3>选择节点</h3>\n                        <p>根据需求选择附近或高速节点进行连接。</p>\n                    </div>\n                    <div class=\"card\">\n                        <h3>一键连接</h3>\n                        <p>支持一键加速，自动优化线路。</p>\n                    </div>\n                </div>\n            </section>\n            <section id=\"plans\">\n                {{PLANS_HTML}}\n            </section>\n            <section id=\"clients\">\n                {{CLIENTS_HTML}}\n            </section>\n            <section id=\"faq\">\n                <h2>常见问题</h2>\n                <div class=\"faq\">\n                    <details>\n                        <summary>魔戒VPN如何提供网络加速？</summary>\n                        <p>通过优化全球节点网络，提供低延迟、高带宽的连接服务，确保您在任何地点都能获得流畅体验。</p>\n                    </details>\n                    <details>\n                        <summary>支持哪些流媒体平台？</summary>\n                        <p>旗舰版及以上套餐支持主流流媒体平台的原生解锁。</p>\n                    </details>\n                    <details>\n                        <summary>如何管理多个设备？</summary>\n                        <p>支持多台设备同时在线，根据套餐选择。</p>\n                    </details>\n                    <details>\n                        <summary>客服支持时间如何？</summary>\n                        <p>提供7x24在线客服服务，团队版额外配备专属客户经理。</p>\n                    </details>\n                    <details>\n                        <summary>隐私保护措施是什么？</summary>\n                        <p>所有连接均使用加密协议，保护您的上网数据不被窃取。</p>\n                    </details>\n                </div>\n            </section>\n        </div>\n    </main>\n    <footer>\n        <p>© 魔戒 VPN 版权所有 | <a href=\"#plans\">查看套餐</a></p>\n    </footer>\n\n",
+          "hash": "67305d0839994c2a8b72b5ff78dac195843aff9a7096465d107032e04b3b979f",
+          "seo": {
+            "title": "魔戒 VPN | 高速网络加速器 | 客户端下载",
+            "keywords": "魔戒, VPN, 加速器, 客户端下载, 网络加速",
+            "description": "魔戒VPN提供安全稳定的网络加速服务，帮助用户畅享无障碍高速上网体验。支持多设备在线，下载客户端立即使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kyuqnne.cn",
+    "host": "web.kyuqnne.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "kyuqnne.cn",
+      "url": "https://kyuqnne.cn/",
+      "label": "Dogess",
+      "apex": "kyuqnne.cn",
+      "kind": null,
+      "identity": "regrmu/page-1156b5bb7bc0d50cc4d6201a"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ac8e735f7f16f3d9cf70e9f496002733f7a442663d322e45b53a71d8fade7547",
+    "sitemap.xml": "2b0349d5f644fd4f5582d1ada8160b24c7f9d6f0a96a9eebb5b88c2cd762ad5b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c03778bcb6214cbca23807ec87ee28aa8071951b93da16aaeec9f9e9e243dfb5",
+    "robots.txt": "8e2e677cd356e1f39f12fdd1ddf3d80b06ade5b71b601724a4e1f829f6448563",
+    "af9f4c37813ea663d1b660cc2da3af5b.txt": "1f74a4a25518b179227a7aa6b2567a7eeb1311e7f8ec94928256fd7656cffac3"
+  },
+  "revision": "736a042c721d11ad9d4c8c4a9858bec2e6c6c47513ca49a0d818ce3323d78f9b"
+}
